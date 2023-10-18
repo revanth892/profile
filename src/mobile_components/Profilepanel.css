@@ -1,0 +1,24 @@
+img {
+    border-radius: 50%;
+}
+.profile_name
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    color: white;
+    letter-spacing: 0.8px;
+}
+.address
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: rgb(25, 118, 210);
+    letter-spacing: 0.6px;
+}
+.intro
+{
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+}
