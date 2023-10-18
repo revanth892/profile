@@ -48,19 +48,19 @@ function Aboutme() {
             <Box  
             sx={{display:'flex',flexDirection:'row',color:'white',mt:0.6,mb:0.6}}>
                 <Typography sx={{mr:'auto',ml:1,fontSize:'17px',fontFamily:'Franklin Gothic Medium'}}>Github</Typography>
-                <Typography sx={{ml:'auto',mr:1,mt:0.3,fontSize:'14px'}}><Link href="#"variant='body2'color="inherit">View</Link></Typography>
+                <Typography sx={{ml:'auto',mr:1,mt:0.3,fontSize:'14px'}}><Link href="https://github.com/revanth892"variant='body2'color="inherit">View</Link></Typography>
             </Box>
             <Divider sx={{borderBottomWidth:'2px',borderColor:'rgb(25, 118, 210)'}}></Divider>
             <Box  
             sx={{display:'flex',flexDirection:'row',color:'white',mt:0.6,mb:0.6}}>
                 <Typography sx={{mr:'auto',ml:1,fontSize:'17px',fontFamily:'Franklin Gothic Medium'}}>LinkedIn</Typography>
-                <Typography sx={{ml:'auto',mr:1,mt:0.3,fontSize:'14px'}}><Link href="#"variant='body2'color="inherit">View</Link></Typography>
+                <Typography sx={{ml:'auto',mr:1,mt:0.3,fontSize:'14px'}}><Link href="https://www.linkedin.com/in/revanth-naidu-94bba7230/"variant='body2'color="inherit">View</Link></Typography>
             </Box>
             <Divider sx={{borderBottomWidth:'2px',borderColor:'rgb(25, 118, 210)'}}></Divider>
             <Box  
             sx={{display:'flex',flexDirection:'row',color:'white',mt:0.6,mb:0.6}}>
                 <Typography sx={{mr:'auto',ml:1,fontSize:'17px',fontFamily:'Franklin Gothic Medium'}}>Leetcode</Typography>
-                <Typography sx={{ml:'auto',mr:1,mt:0.3,fontSize:'14px'}}><Link href="#"variant='body2'color="inherit">View</Link></Typography>
+                <Typography sx={{ml:'auto',mr:1,mt:0.3,fontSize:'14px'}}><Link href="https://leetcode.com/asrevanthnaidu/"variant='body2'color="inherit">View</Link></Typography>
             </Box>
             <Divider sx={{borderBottomWidth:'2px',borderColor:'rgb(25, 118, 210)'}}></Divider>
             <Box  

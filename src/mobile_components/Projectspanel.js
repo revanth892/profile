@@ -1,6 +1,6 @@
 import React from "react";
 import Box from '@mui/material/Box'
-import Projectcard from './Projectcard';
+import {Projectcard1,Projectcard2,Projectcard3,Projectcard4} from './Projectcards/Projectcard';
 function Projectspanel() {
   return (
     <>
@@ -9,19 +9,25 @@ function Projectspanel() {
         <Box  
         sx={{display:'flex',flexDirection:'row'}}>
             <Box sx={{mx:'auto',mt:-0.5}}>
-                <Projectcard/>
+                <Projectcard1/>
             </Box>
         </Box>
         <Box  
         sx={{display:'flex',flexDirection:'row'}}>
             <Box sx={{mx:'auto',mt:1}}>
-            <Projectcard/>
+            <Projectcard2/>
             </Box>
         </Box>
         <Box  
         sx={{display:'flex',flexDirection:'row'}}>
             <Box sx={{mx:'auto',mt:1}}>
-            <Projectcard/>
+            <Projectcard3/>
+            </Box>
+        </Box>
+        <Box  
+        sx={{display:'flex',flexDirection:'row'}}>
+            <Box sx={{mx:'auto',mt:1}}>
+            <Projectcard4/>
             </Box>
         </Box>
     </Box>

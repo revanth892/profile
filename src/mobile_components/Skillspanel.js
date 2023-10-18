@@ -42,6 +42,8 @@ export default function Skillspanel() {
                     <Chip color='error'sx={{mr:1,mb:1.8,fontSize: '15px',fontFamily:'Franklin Gothic Medium'}} variant="outlined" label="Java" />
                     <Chip color='success' sx={{mr:1,mb:1.8,fontSize: '15px',fontFamily:'Franklin Gothic Medium'}} variant="outlined" label="Python" />
                     <Chip color='secondary' sx={{mr:1,mb:1.8,fontSize: '15px',fontFamily:'Franklin Gothic Medium'}} variant="outlined" label="DSA" />
+                    <Chip color='warning' sx={{mr:1,mb:1.8,fontSize: '15px',fontFamily:'Franklin Gothic Medium'}} variant="outlined" label="MUI" />
+                    <Chip color='primary' sx={{mr:1,mb:1.8,fontSize: '15px',fontFamily:'Franklin Gothic Medium'}} variant="outlined" label="Redux" />
                 </Box>
             </Box>
         </Box>
