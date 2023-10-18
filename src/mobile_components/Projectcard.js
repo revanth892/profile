@@ -10,8 +10,8 @@ import './Projectcard.css'
 export default function Projectcard() {
 
   return (
-    <Box sx={{border:2,borderRadius:'20px',borderColor: 'primary.main',borderWidth:'3px',width:'330px'}}> 
-        <Card sx={{ borderRadius:'18px',borderColor: 'primary.main',borderWidth:'2px',width:'330px',color:'white',backgroundColor:'black'}}>
+    <Box sx={{border:2,borderRadius:'20px',borderColor: 'primary.main',borderWidth:'3px',width:'291.5px'}}> 
+        <Card sx={{ borderRadius:'18px',borderColor: 'primary.main',borderWidth:'2px',width:'291.5px',color:'white',backgroundColor:'black'}}>
         <Box sx={{ml:2,mt:-2}}><p className="Title">Exprense Tracker</p></Box>
         <CardMedia
             component="img"
