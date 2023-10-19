@@ -50,7 +50,9 @@ export function Projectcard1() {
                     <Button sx={{borderRadius:'16px'}} variant ="outlined">Know More</Button>
                 </Box>
                 <Box sx={{mx:'auto',mt:2    }}>
-                    <Button sx={{borderRadius:'16px'}} variant="outlined">Show Live</Button>
+                    <Button sx={{borderRadius:'16px'}} variant="outlined">
+                        <a href='https://the-expense-tracker.vercel.app/'>Show Live</a>
+                    </Button>
                 </Box>
             </Box>
         </Box>
