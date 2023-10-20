@@ -42,7 +42,7 @@ function Aboutme() {
             <Box  
             sx={{display:'flex',flexDirection:'row',color:'white',mt:0.6,mb:0.6}}>
                 <Typography sx={{mr:'auto',ml:1,fontSize:'17px',fontFamily:'Franklin Gothic Medium'}}>Resume</Typography>
-                <Typography sx={{ml:'auto',mr:1,mt:0.3,fontSize:'14px'}}><Link href="#"variant='body2'color="inherit">Download</Link></Typography>
+                <Typography sx={{ml:'auto',mr:1,mt:0.3,fontSize:'14px'}}><Link href='/files/Revanth_Naidu.pdf' target='_blank' variant='body2'color="inherit" download='Revanth_Naidu.pdf'>Download</Link></Typography>
             </Box>
             <Divider sx={{borderBottomWidth:'2px',borderColor:'rgb(25, 118, 210)'}}></Divider>
             <Box  

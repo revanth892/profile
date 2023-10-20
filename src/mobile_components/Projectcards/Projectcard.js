@@ -97,7 +97,9 @@ export function Projectcard2() {
                       <Button sx={{borderRadius:'16px'}} variant ="outlined">Know More</Button>
                   </Box>
                   <Box sx={{mx:'auto',mt:2    }}>
-                      <Button sx={{borderRadius:'16px'}} variant="outlined">Show Live</Button>
+                      <Button sx={{borderRadius:'16px'}} variant="outlined">
+                      <a href='https://quote-generator-react-phi.vercel.app/'>Show Live</a>
+                      </Button>
                   </Box>
               </Box>
           </Box>
@@ -144,7 +146,9 @@ export function Projectcard2() {
                       <Button sx={{borderRadius:'16px'}} variant ="outlined">Know More</Button>
                   </Box>
                   <Box sx={{mx:'auto',mt:2    }}>
-                      <Button sx={{borderRadius:'16px'}} variant="outlined">Show Live</Button>
+                      <Button sx={{borderRadius:'16px'}} variant="outlined">
+                      <a href='https://revanth892.github.io/apple-page.github.io/'>Show Live</a>
+                      </Button>
                   </Box>
               </Box>
           </Box>
@@ -191,7 +195,9 @@ export function Projectcard2() {
                       <Button sx={{borderRadius:'16px'}} variant ="outlined">Know More</Button>
                   </Box>
                   <Box sx={{mx:'auto',mt:2    }}>
-                      <Button sx={{borderRadius:'16px'}} variant="outlined">Show Live</Button>
+                      <Button sx={{borderRadius:'16px'}} variant="outlined">
+                      <a href='https://revanth892.github.io/gdsc.github.io/'>Show Live</a>
+                      </Button>
                   </Box>
               </Box>
           </Box>
